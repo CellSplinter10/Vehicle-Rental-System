@@ -30,7 +30,6 @@ This project is a backend REST API for a Vehicle Rental System. It supports vehi
 * PostgreSQL
 * JWT (jsonwebtoken)
 * bcrypt
-* node-cron
 
 ---
 
