@@ -1,6 +1,6 @@
 **Project Name:** Vehicle Rental System API
 
-**Live URL:**  https://vehicle-rental-system-3g2lorduk.vercel.app/
+**Live URL:**  https://vehicle-rental-system-beta-teal.vercel.app/
 
 ---
 
