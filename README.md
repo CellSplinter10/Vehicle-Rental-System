@@ -43,6 +43,10 @@ This project is a backend REST API for a Vehicle Rental System. It supports vehi
 5. Then go to your database and to `users' table and update the role to admin.
 6. When you log into the system, a json token will be returned, which can be used to gain access to different parts of the api system.
 
+> 📖 **For more detailes, see the [Project Detail Information](https://github.com/Apollo-Level2-Web-Dev/B6A2/blob/main/README.md)
+
+> 📖 **For detailed request/response specifications, see the [API Reference](https://github.com/Apollo-Level2-Web-Dev/B6A2/blob/main/API_REFERENCE.md)**
+
 ---
 
 
