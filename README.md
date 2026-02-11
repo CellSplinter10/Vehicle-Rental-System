@@ -5,6 +5,7 @@
 ---
 
 **Project Overview**
+
 This project is a backend REST API for a Vehicle Rental System. It supports vehicle management, user management, booking operations, and secure role-based authentication. The system enforces proper business rules such as vehicle availability tracking, booking cancellation rules, and automatic booking returns.
 
 ---
